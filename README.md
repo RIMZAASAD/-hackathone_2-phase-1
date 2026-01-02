@@ -241,12 +241,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Clean architecture principles applied
 - Spec-driven development approach
 
-## 📞 Support
+
 
 For support, please open an issue in the GitHub repository.
 
 ---
 
 <p align="center">
-  Made with ❤️ using Python and Clean Architecture
+  Made By Rimza ❤️
 </p>
