@@ -1,4 +1,4 @@
-# Todo Console Application with Enhanced Feedback
+# Todo Console Application
 
 A feature-rich, menu-driven todo console application built in Python with enhanced user feedback, visual icons, and clean architecture.
 
