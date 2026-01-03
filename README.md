@@ -1,5 +1,12 @@
 # Todo Console Application
 
+# Check out a demo of the Todo Console App in action
+
+https://github.com/user-attachments/assets/b9f5c00f-98e0-405c-a6d7-83a281725c2e
+
+
+
+
 A feature-rich, menu-driven todo console application built in Python with enhanced user feedback, visual icons, and clean architecture.
 
 ## 🌟 Features
