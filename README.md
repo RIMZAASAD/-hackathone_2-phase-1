@@ -1,12 +1,5 @@
 # Todo Console Application
 
-# Check out a demo of the Todo Console App in action
-
-https://github.com/user-attachments/assets/b9f5c00f-98e0-405c-a6d7-83a281725c2e
-
-
-
-
 A feature-rich, menu-driven todo console application built in Python with enhanced user feedback, visual icons, and clean architecture.
 
 ## 🌟 Features
@@ -25,6 +18,11 @@ A feature-rich, menu-driven todo console application built in Python with enhanc
 - **Task Details Display**: Shows ID, description, and status after each action
 - **Color-Coded Messages**: Green for success, red for errors
 - **Status Indicators**: Visual feedback for task completion status
+
+- 
+# Watch the den=mo video 📹
+
+https://github.com/user-attachments/assets/b9f5c00f-98e0-405c-a6d7-83a281725c2e
 
 ### Visual Icons
 - ✅ - Success operations and completed tasks
