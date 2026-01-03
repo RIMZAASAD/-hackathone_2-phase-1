@@ -20,7 +20,7 @@ A feature-rich, menu-driven todo console application built in Python with enhanc
 - **Status Indicators**: Visual feedback for task completion status
 
 - 
-# Watch the den=mo video 📹
+# Watch the denmo video 📹
 
 https://github.com/user-attachments/assets/b9f5c00f-98e0-405c-a6d7-83a281725c2e
 
